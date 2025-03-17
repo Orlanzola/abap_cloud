@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer CDS'
+define service ZOAG_SD_ART {
+  expose ZOAG_CDS_ART;
+}
